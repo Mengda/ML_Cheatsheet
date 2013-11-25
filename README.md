@@ -1,3 +1,4 @@
 ML_Cheatsheet
 =============
-Just a readme for some Machine Learning final exam!
+Just a cheat sheet for some Machine Learning final exam!
+10-601 @ CMU, Fall 2013.
